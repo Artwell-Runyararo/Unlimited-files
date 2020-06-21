@@ -1,0 +1,10 @@
+Step 1.
+Extract the web.zip file
+Step 2.
+Copy web folder and paste it in htdocs holder
+Step 3.
+Download the online_shopping.sql file , Run Xampp and import the database(online_shopping.sql)
+Step 4.
+Go to your browser and open it.Then select computer categories
+Step 5.
+Then enjoy the shopping cart !!!!!!
