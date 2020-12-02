@@ -1,0 +1,49 @@
+.navbar {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+.active {
+    padding: 0px;
+    margin: 0px;
+}
+
+* .navbar-style {
+    padding: 0px;
+    margin: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 45%;
+}
+
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(11, 153, 87);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(116, 116, 116);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(118, 118, 118);
+}
+
+.carousel-inner img {
+    width: 100%;
+}
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#line {
+    transform: rotate(90deg);
+}
+
+.bgnav {
+    background-color: rgba(128, 128, 128, 0.378);
+}
